@@ -8,3 +8,6 @@ Start here:
 - [Frameworks and Agents Overview](knowledge-base/03-agents-frameworks/frameworks-overview.md)
 
 The original notes are still here, but the curated and updated material lives under `knowledge-base/`.
+
+Large files moved to Google Drive:
+- https://drive.google.com/drive/folders/1nCfpmMkO3evUcjL8V9WClNUKcJN79OuA?usp=sharing
